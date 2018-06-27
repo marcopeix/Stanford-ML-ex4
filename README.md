@@ -1,2 +1,3 @@
 # Stanford-ML-ex4
-My take on the fourth exercise of Andrew Ng's Machine Learning course on Coursera.
+
+In this notebook, the previous exercise is revisited, but this time, backpropagation is implemented in the neural network.
